@@ -12,7 +12,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   color: #ffffff;
-  background-color: #031003;
+  background-color: #000000;
 }
 
 .layout_margin {
@@ -206,7 +206,7 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background: rgba(3, 16, 3, 0.95);
+  background: #000000;
   overflow-x: hidden;
   -webkit-transition: 0.5s;
   transition: 0.5s;
